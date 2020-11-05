@@ -41,6 +41,8 @@ Além desses arquivos, ainda compõem este repositório:
 Açucena Rodrigues dos Santos Soares
 
 E-mail: acucenarodrigues1998@gmail.com
+
 [GitHub](https://github.com/acucenarodrigues1998)
+
 [Linkedin](https://www.linkedin.com/in/acucena-rodrigues/)
 
